@@ -21,6 +21,6 @@
 <a href="https://www.linkedin.com/in/leticia-pereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
- ![](https://user-images.githubusercontent.com/118926554/232632068-4fb21ee1-32a6-4846-a77b-05481abc0c2d.png)
-
- ![](https://github.com/LeticiaFerreira0/LeticiaFerreira0/blob/output/github-contribution-grid-snake.svg )
+<div>
+<a href="https://user-images.githubusercontent.com/118926554/232632068-4fb21ee1-32a6-4846-a77b-05481abc0c2d.png" target="_blank"><img src="https://user-images.githubusercontent.com/118926554/232632068-4fb21ee1-32a6-4846-a77b-05481abc0c2d.png Color=white" target="_blank"></a>
+</div>
