@@ -1,6 +1,5 @@
 ### Olá , eu sou Letícia Ferreira, seja bem-vindo ao meu perfil💗
-<!--
-**LeticiaFerreira0/LeticiaFerreira0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile--!>
+<!--**LeticiaFerreira0/LeticiaFerreira0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile--!>
 
 - 🌱 Atualmente sou estudante em ciência da computação.
 - 👯 Estou procurando colaborar em pequenos projetos para me aprofundar no basico front-end.
@@ -22,7 +21,6 @@
 <a href="https://www.linkedin.com/in/leticia-pereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-https://user-images.githubusercontent.com/118926554/232632068-4fb21ee1-32a6-4846-a77b-05481abc0c2d.png
+ ![](https://user-images.githubusercontent.com/118926554/232632068-4fb21ee1-32a6-4846-a77b-05481abc0c2d.png)
 
-https://github.com/LeticiaFerreira0/LeticiaFerreira0/blob/output/github-contribution-grid-snake.svg
-
+ ![](https://github.com/LeticiaFerreira0/LeticiaFerreira0/blob/output/github-contribution-grid-snake.svg )
